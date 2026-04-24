@@ -1,5 +1,5 @@
 node_modules/
 dist/
 tasks.json
-.env
 *.js.map
+config.bat
